@@ -5,3 +5,4 @@
 *.svg
 .DS_Store
 *.json
+!parsed_flavor_notes.csv
